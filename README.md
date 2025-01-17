@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Omar Badr
 
-<!--
-**badromar00/badromar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Computer Science student at San Diego State University
+- 🌟 Backend Engineer Intern at BreatheIT, working on API development and authentication systems.   
+- 🛠️ Proficient in Node.js, React, PostgreSQL, MySQL, Java, Python, and cloud deployment.
+- ⚽ Currently building **OFFSIDE**, an all in one soccer mobile social platform with live chat and dynamic feeds.
+- 🚀 Passionate about developing scalable, user-centric solutions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/omarbadr00/)  
+- [GitHub](https://github.com/badromar00)  
+- [Portfolio](https://omarbadr.me/)  
