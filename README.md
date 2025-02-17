@@ -9,6 +9,6 @@
 ---
 
 ### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/omarbadr00/)  
+- [LinkedIn](https://www.linkedin.com/in/omarbadr0/)  
 - [GitHub](https://github.com/badromar00)  
 - [Portfolio](https://omarbadr.me/)  
